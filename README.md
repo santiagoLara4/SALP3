@@ -10,3 +10,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 ## Tecnologías
 - Java SpringBoot
 Cambio rama QA
+Cambio rama SAL-2
